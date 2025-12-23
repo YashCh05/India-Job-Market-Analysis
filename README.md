@@ -1,4 +1,5 @@
-# 🇮🇳 India Job Market Analysis
+# <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/469d81fa-413b-419f-8069-187c5248d653" />
+#  India Job Market Analysis
 
 A complete end-to-end data project analyzing India’s job market using real LinkedIn job posting data. This project covers the full workflow — data cleaning, exploratory analysis, skill mapping, and a multi-page interactive Power BI dashboard.
 
